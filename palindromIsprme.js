@@ -65,3 +65,5 @@ var n = 50;
 console.log('Palindromic primes smaller than or equal to ' + n + ' are :<br>');
 printPalPrimesLessThanN(n);
 
+
+
